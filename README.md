@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Phetogo Monaisa
 
-<!--
-**Phetogo19/Phetogo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Final Year Student | Aspiring Business Analyst | Cybersecurity Enthusiast | Network Engineering Learner
 
-Here are some ideas to get you started:
+I'm passionate about using technology to solve real-world problems. My interests lie in **Business Analysis**, **Cybersecurity**, **Networking**, and **Software Development**, with a growing focus on building secure, efficient, and user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 NWU Final Year BSc Information Technology Student
+- 💻 Building projects with Python, Java, HTML, CSS & JavaScript
+- 📊 Interested in Business Analysis & Data-Driven Decision Making
+- 🔐 Learning Cybersecurity and Network Engineering
+- 🌱 Always learning and improving my technical skills
