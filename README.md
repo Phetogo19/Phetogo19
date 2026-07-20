@@ -13,3 +13,5 @@ I'm passionate about using technology to solve real-world problems. My interests
 - 📊 Interested in Business Analysis & Data-Driven Decision Making
 - 🔐 Learning Cybersecurity and Network Engineering
 - 🌱 Always learning and improving my technical skills
+
+![Phetogo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Phetogo19&show_icons=true&theme=highcontrast)
